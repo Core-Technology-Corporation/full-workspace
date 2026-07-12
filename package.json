@@ -1,0 +1,44 @@
+{
+  "name": "full-workspace",
+  "displayName": "Full Workspace",
+  "description": "A curated Visual Studio Code Extension Pack to create a complete, powerful, and productive development workspace.",
+  "version": "1.0.1",
+  "publisher": "alvarosiles",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "extension pack",
+    "workspace",
+    "productivity",
+    "pro",
+    "setup"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvarosiles/full-workspace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alvarosiles/full-workspace/issues"
+  },
+  "homepage": "https://github.com/alvarosiles/full-workspace#readme",
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
+  "extensionPack": [
+    "alvarosiles.pro-vscode-themes",
+    "alvarosiles.pro-vscode-keybindings",
+    "alvarosiles.pro-snippets",
+    "alvarosiles.pro-vscode-tools",
+    "alvarosiles.pro-vscode-ai",
+    "alefragnani.Bookmarks",
+    "christian-kohler.path-intellisense",
+    "Postman.postman-for-vscode"
+  ]
+}
