@@ -2,7 +2,7 @@
   "name": "full-workspace",
   "displayName": "Full Workspace",
   "description": "A curated Visual Studio Code Extension Pack to create a complete, powerful, and productive development workspace.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "alvarosiles",
   "license": "MIT",
   "icon": "images/icon.png",
@@ -32,13 +32,14 @@
     "theme": "dark"
   },
   "extensionPack": [
-    "alvarosiles.pro-vscode-themes",
-    "alvarosiles.pro-vscode-keybindings",
-    "alvarosiles.pro-snippets",
-    "alvarosiles.pro-vscode-tools",
-    "alvarosiles.pro-vscode-ai",
     "alefragnani.Bookmarks",
     "christian-kohler.path-intellisense",
-    "Postman.postman-for-vscode"
+    "Postman.postman-for-vscode",
+    "MS-CEINTL.vscode-language-pack-es",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode.PowerShell",
+    "cweijan.vscode-database-client2",
+    "ritwickdey.LiveServer"
   ]
 }
