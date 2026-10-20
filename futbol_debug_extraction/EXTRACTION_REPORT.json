@@ -1,0 +1,80 @@
+{
+  "extractionReport": {
+    "file": "c:\\Users\\ALVARO\\Documents\\GitHub\\full-workspace\\futbol.xlsx",
+    "fileSize": "0.01 MB",
+    "extractedAt": "2026-07-15T03:31:08.380Z",
+    "zipLoadTime": "1ms",
+    "totalFiles": 10
+  },
+  "fileStructure": {
+    "allFiles": [
+      "[Content_Types].xml",
+      "_rels/.rels",
+      "docProps/app.xml",
+      "[trash]/0000.dat",
+      "xl/_rels/workbook.xml.rels",
+      "xl/styles.xml",
+      "xl/theme/theme1.xml",
+      "xl/workbook.xml",
+      "xl/worksheets/sheet1.xml",
+      "docProps/core.xml"
+    ],
+    "customXmlFiles": [],
+    "xlFiles": [
+      "xl/_rels/workbook.xml.rels",
+      "xl/styles.xml",
+      "xl/theme/theme1.xml",
+      "xl/workbook.xml",
+      "xl/worksheets/sheet1.xml"
+    ],
+    "queryFiles": [],
+    "connectionFiles": []
+  },
+  "dataMashupAnalysis": {
+    "totalXmlFilesScanned": 7,
+    "dataMashupFilesFound": 0,
+    "totalDataMashupSize": "0.0 KB",
+    "results": [
+      {
+        "file": "[Content_Types].xml",
+        "hasDataMashup": false,
+        "size": 1032
+      },
+      {
+        "file": "docProps/app.xml",
+        "hasDataMashup": false,
+        "size": 785
+      },
+      {
+        "file": "xl/styles.xml",
+        "hasDataMashup": false,
+        "size": 1540
+      },
+      {
+        "file": "xl/theme/theme1.xml",
+        "hasDataMashup": false,
+        "size": 6736
+      },
+      {
+        "file": "xl/workbook.xml",
+        "hasDataMashup": false,
+        "size": 980
+      },
+      {
+        "file": "xl/worksheets/sheet1.xml",
+        "hasDataMashup": false,
+        "size": 667
+      },
+      {
+        "file": "docProps/core.xml",
+        "hasDataMashup": false,
+        "size": 599
+      }
+    ]
+  },
+  "potentialPowerQueryLocations": [],
+  "recommendations": [
+    "No DataMashup content found - file may not contain Power Query M code",
+    "Check if Excel file actually has Power Query connections"
+  ]
+}
