@@ -85,7 +85,7 @@ Visual Studio Code Marketplace, y a través de las extensiones incluidas: Postma
 
 ## Estado
 
-Versión `0.0.3`. El README enlaza la página del Marketplace (`alvarosiles.full-workspace`) y hay paquetes `.vsix` de las versiones 0.0.2 y 0.0.3 en el directorio de trabajo; los `.vsix` están ignorados en git.
+Versión `0.0.3`, publicada en el Visual Studio Code Marketplace como `alvarosiles.full-workspace` (verificado el 2026-10-20). El paquete publicado está disponible en `presentacion/descarga/`.
 
 ## Capturas
 
